@@ -181,7 +181,7 @@ pageNum=1&pageSize=5&keyword=a
 #### 请求参数
 ```json
 {
-   "content":"xxx", // 评论内容
+   "review":"xxx", // 评论内容
 }
 ```
 
